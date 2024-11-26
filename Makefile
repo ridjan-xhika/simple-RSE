@@ -12,7 +12,7 @@ SRC		=	main.c	\
 
 OBJ		=	$(SRC:.c=.o)
 
-NAME	=	my_program
+NAME	=	rle_compressor
 
 CC		=	gcc
 
